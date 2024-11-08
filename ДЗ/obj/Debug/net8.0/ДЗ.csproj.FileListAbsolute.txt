@@ -1,0 +1,14 @@
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\bin\Debug\net8.0\ДЗ.exe
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\bin\Debug\net8.0\ДЗ.deps.json
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\bin\Debug\net8.0\ДЗ.runtimeconfig.json
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\bin\Debug\net8.0\ДЗ.dll
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\bin\Debug\net8.0\ДЗ.pdb
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ДЗ.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ДЗ.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ДЗ.dll
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\refint\ДЗ.dll
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ДЗ.pdb
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ДЗ.genruntimeconfig.cache
+C:\Users\Евгений\source\repos\ДЗ\ДЗ\obj\Debug\net8.0\ref\ДЗ.dll
